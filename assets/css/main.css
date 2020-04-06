@@ -1,0 +1,41 @@
+body{
+    font-family: Helvetica, Arial, sans serif;
+    margin: 0;
+}
+header{
+    background-color:#175de8;
+    color:white;
+    text-align:center;
+}
+h1{
+    display:inline-block;
+    width:400px;font-size:22px;
+    font-weight:500;
+}
+.titulo{
+    display:inline-block;
+    width:400px;
+    font-weight:200;
+}
+.subtitulo{
+    background-color:#e86e17;
+    color:black;
+    text-align:center;
+    padding:10px;
+}
+dt {
+    margin-top:12px;
+}
+dd{
+    font-size:14px;
+}
+ul{
+    padding:0px;
+    margin-left:24px;
+}
+li{
+    margin-top:6px;
+}
+.mi12{
+    margin-left: 12px;
+}
